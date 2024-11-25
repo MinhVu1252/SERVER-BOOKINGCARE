@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Bác sĩ Nguyễn Văn A",
+      "specialty": "Tim mạch",
+      "hospital": "Bệnh viện A",
+      "details": "Chi tiết về bác sĩ A"
+    },
+    {
+      "id": 2,
+      "name": "Bác sĩ Trần Thị B",
+      "specialty": "Da liễu",
+      "hospital": "Bệnh viện B",
+      "details": "Chi tiết về bác sĩ B"
+    }
+  ]
+  

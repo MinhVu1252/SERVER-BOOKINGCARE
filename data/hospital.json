@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Bệnh viện Quận Bình Thạnh",
+      "location": "Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+      "phone_number": "028 3895 0000",
+      "logo": "bv-quanbinhthanh.png",
+      "rating": 4.5,
+      "reviews": 120
+    },
+    {
+      "id": 2,
+      "name": "Bệnh viện Mắt TP.HCM",
+      "location": "Quận 3, Thành phố Hồ Chí Minh",
+      "phone_number": "028 3932 4000",
+      "logo": "bv-mattphcm.png",
+      "rating": 4.7,
+      "reviews": 98
+    },
+    {
+      "id": 3,
+      "name": "Bệnh viện Nguyễn Trãi",
+      "location": "Quận 5, Thành phố Hồ Chí Minh",
+      "phone_number": "028 3855 7411",
+      "logo": "bv-nguyentrai.png",
+      "rating": 4.2,
+      "reviews": 150
+    },
+    {
+      "id": 4,
+      "name": "Bệnh viện Đa khoa Singapore (Singapore General Hospital)",
+      "location": "Bukit Merah, Central Region, Singapore",
+      "phone_number": "+65 6222 3322",
+      "logo": "bv-dakhoasingapore.png",
+      "rating": 4.8,
+      "reviews": 200
+    },
+    {
+      "id": 5,
+      "name": "Bệnh viện Chấn Thương Chỉnh Hình TP.HCM",
+      "location": "Quận 5, Thành phố Hồ Chí Minh",
+      "phone_number": "028 3855 4256",
+      "logo": "bv-chanthuongchinhhinhtphcm.png",
+      "rating": 4.3,
+      "reviews": 75
+    },
+    {
+      "id": 6,
+      "name": "Bệnh viện Chợ Rẫy",
+      "location": "Quận 3, Thành phố Hồ Chí Minh",
+      "phone_number": "028 3955 3535",
+      "logo": "bv-choray.png",
+      "rating": 4.6,
+      "reviews": 180
+    },
+    {
+      "id": 7,
+      "name": "Bệnh viện Đa khoa Quốc Tế Hoàn Mỹ Thủ Đức",
+      "location": "Thủ Đức, Thành phố Hồ Chí Minh",
+      "phone_number": "028 3722 2333",
+      "logo": "bv-dakhoaquoctehoanmythuduc.png",
+      "rating": 4.4,
+      "reviews": 140
+    },
+    {
+      "id": 8,
+      "name": "Bệnh viện Da Liễu TP.HCM",
+      "location": "Quận 3, Thành phố Hồ Chí Minh",
+      "phone_number": "028 3930 0131",
+      "logo": "bv-dalieutphcm.png",
+      "rating": 4.5,
+      "reviews": 110
+    },
+    {
+      "id": 9,
+      "name": "Bệnh viện Đa khoa Đồng Nai",
+      "location": "Biên Hòa, Đồng Nai",
+      "phone_number": "0251 3832 275",
+      "logo": "bv-dakhoadonai.png",
+      "rating": 4.0,
+      "reviews": 80
+    },
+    {
+      "id": 10,
+      "name": "Bệnh viện Phạm Ngọc Thạch",
+      "location": "Quận 10, Thành phố Hồ Chí Minh",
+      "phone_number": "028 3863 2137",
+      "logo": "bv-phamngocthach.png",
+      "rating": 4.2,
+      "reviews": 65
+    }
+  ]
+  
