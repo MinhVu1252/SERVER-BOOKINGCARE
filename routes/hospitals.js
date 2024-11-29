@@ -1,27 +1,21 @@
+// routes/hospitals.js
+
 const express = require("express");
 const {
   getHospitals,
   getHospitalById,
-  addHospital,
-  updateHospital,
-  deleteHospital,
+  getSpecialtiesByHospital,
 } = require("../controllers/hospitalController");
 
 const router = express.Router();
 
-// Lấy danh sách bệnh viện
+// Lấy danh sách tất cả bệnh viện
 router.get("/", getHospitals);
 
 // Lấy thông tin bệnh viện theo ID
-router.get("/:id", getHospitalById);
+router.get("/:id", getHospitalById); // Lấy thông tin đầy đủ bệnh viện theo ID
 
-// Thêm bệnh viện mới
-router.post("/", addHospital);
-
-// Cập nhật thông tin bệnh viện
-router.put("/:id", updateHospital);
-
-// Xóa bệnh viện
-router.delete("/:id", deleteHospital);
+// Route để lấy danh sách chuyên khoa theo id bệnh viện
+router.get("/:hospitalId/specialties", getSpecialtiesByHospital);
 
 module.exports = router;

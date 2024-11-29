@@ -1,0 +1,38 @@
+[
+  {
+    "fullName": "cszc",
+    "gender": "male",
+    "phoneNumber": "z",
+    "email": "c",
+    "appointment_date": "2024-12-07",
+    "appointment_time": "07:00-09:00",
+    "hospitalId": 1,
+    "specialty": "Tiêu Hóa Gan Mật",
+    "servicesId": 1,
+    "status": "Đặt lịch thành công"
+  },
+  {
+    "fullName": "xb ",
+    "gender": "female",
+    "phoneNumber": "xb",
+    "email": "xcv",
+    "appointment_date": "2024-11-30",
+    "appointment_time": "09:00-11:00",
+    "hospitalId": 3,
+    "specialty": "Nội Tiết Niệu",
+    "servicesId": 21,
+    "status": "Đặt lịch thành công"
+  },
+  {
+    "fullName": "minh vu",
+    "gender": "male",
+    "phoneNumber": "0865811023",
+    "email": "vu@gmail.com",
+    "appointment_date": "2003-01-01",
+    "appointment_time": "07:00-09:00",
+    "hospitalId": 1,
+    "specialty": "Bác sĩ Gia Đình",
+    "servicesId": 1,
+    "status": "Đặt lịch thành công"
+  }
+]

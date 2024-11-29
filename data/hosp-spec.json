@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "doctor_id": 1,
+        "hospital_id": 1,
+        "specialty_id": 2
+    },
+    {
+        "id": 2,
+        "doctor_id": 2,
+        "hospital_id": 1,
+        "specialty_id": 3
+    },
+    {
+        "id": 3,
+        "doctor_id": 3,
+        "hospital_id": 1,
+        "specialty_id": 16
+    },
+    {
+        "id": 4,
+        "doctor_id": 4,
+        "hospital_id": 1,
+        "specialty_id": 12
+    },
+    {
+        "id": 5,
+        "doctor_id": 5,
+        "hospital_id": 1,
+        "specialty_id": 1
+    },
+    {
+        "id": 6,
+        "doctor_id": 6,
+        "hospital_id": 1,
+        "specialty_id": 11
+    },
+    {
+        "id": 7,
+        "doctor_id": 7,
+        "hospital_id": 1,
+        "specialty_id": 5
+    },
+    {
+        "id": 8,
+        "doctor_id": 8,
+        "hospital_id": 2,
+        "specialty_id": 1
+    },
+    {
+        "id": 9,
+        "doctor_id": 9,
+        "hospital_id": 2,
+        "specialty_id": 12
+    },
+    {
+        "id": 10,
+        "doctor_id": 10,
+        "hospital_id": 2,
+        "specialty_id": 9
+    },
+    {
+        "id": 11,
+        "doctor_id": 11,
+        "hospital_id": 3,
+        "specialty_id": 9
+    },
+    {
+        "id": 12,
+        "doctor_id": 12,
+        "hospital_id": 3,
+        "specialty_id": 6
+    },
+    {
+        "id": 13,
+        "doctor_id": 13,
+        "hospital_id": 3,
+        "specialty_id": 14
+    },
+    {
+        "id": 14,
+        "doctor_id": 14,
+        "hospital_id": 3,
+        "specialty_id": 8
+    },
+    {
+        "id": 15,
+        "doctor_id": 15,
+        "hospital_id": 3,
+        "specialty_id": 11
+    }
+]

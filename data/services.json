@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "hospital_id": 1,
+      "name": "Khám bệnh BHYT",
+      "description": "Khám chữa bệnh bảo hiểm y tế theo quy định của nhà nước.",
+      "price": 0,
+      "type": 1
+    },
+    {
+      "id": 2,
+      "hospital_id": 1,
+      "name": "Khám sức khỏe tổng quát",
+      "description": "Kiểm tra sức khỏe tổng quát định kỳ.",
+      "price": 500000,
+      "type": 2
+    },
+    {
+      "id": 3,
+      "hospital_id": 1,
+      "name": "Khám tim mạch chuyên sâu",
+      "description": "Kiểm tra sức khỏe tim mạch và phát hiện sớm các bệnh lý tim mạch.",
+      "price": 1500000,
+      "type": 2
+    },
+    {
+      "id": 4,
+      "hospital_id": 1,
+      "name": "Khám phụ khoa",
+      "description": "Khám chữa bệnh phụ khoa cho phụ nữ.",
+      "price": 300000,
+      "type": 1
+    },
+    {
+      "id": 5,
+      "hospital_id": 1,
+      "name": "Khám nội soi dạ dày",
+      "description": "Khám và xét nghiệm nội soi dạ dày để phát hiện bệnh lý.",
+      "price": 800000,
+      "type": 2
+    },
+    {
+      "id": 6,
+      "hospital_id": 1,
+      "name": "Khám mắt BHYT",
+      "description": "Khám mắt bảo hiểm y tế cho bệnh nhân có thẻ BHYT.",
+      "price": 0,
+      "type": 1
+    },
+    {
+      "id": 7,
+      "hospital_id": 1,
+      "name": "Khám tầm soát ung thư",
+      "description": "Khám phát hiện sớm ung thư.",
+      "price": 2000000,
+      "type": 2
+    },
+    {
+      "id": 8,
+      "hospital_id": 1,
+      "name": "Khám tim mạch cơ bản",
+      "description": "Khám tim mạch cơ bản để phát hiện các vấn đề về tim.",
+      "price": 1000000,
+      "type": 2
+    },
+    {
+      "id": 9,
+      "hospital_id": 1,
+      "name": "Khám tai mũi họng",
+      "description": "Khám chữa bệnh tai mũi họng.",
+      "price": 200000,
+      "type": 1
+    },
+    {
+      "id": 10,
+      "hospital_id": 1,
+      "name": "Khám sức khỏe tiền hôn nhân",
+      "description": "Khám sức khỏe toàn diện trước khi kết hôn.",
+      "price": 1200000,
+      "type": 2
+    },
+    {
+      "id": 11,
+      "hospital_id": 2,
+      "name": "Khám mắt BHYT",
+      "description": "Khám mắt bảo hiểm y tế cho bệnh nhân có thẻ BHYT.",
+      "price": 0,
+      "type": 1
+    },
+    {
+      "id": 12,
+      "hospital_id": 2,
+      "name": "Khám mắt tổng quát",
+      "description": "Khám sức khỏe mắt tổng quát định kỳ.",
+      "price": 500000,
+      "type": 2
+    },
+    {
+      "id": 13,
+      "hospital_id": 2,
+      "name": "Khám mắt chuyên sâu",
+      "description": "Khám mắt chuyên sâu để phát hiện các bệnh lý nghiêm trọng.",
+      "price": 1000000,
+      "type": 2
+    },
+    {
+      "id": 14,
+      "hospital_id": 2,
+      "name": "Khám tầm soát ung thư mắt",
+      "description": "Khám và phát hiện sớm các loại ung thư mắt.",
+      "price": 1500000,
+      "type": 2
+    },
+    {
+      "id": 15,
+      "hospital_id": 2,
+      "name": "Khám điều trị cận thị",
+      "description": "Điều trị và khám các vấn đề về cận thị.",
+      "price": 300000,
+      "type": 1
+    },
+    {
+      "id": 16,
+      "hospital_id": 2,
+      "name": "Khám chữa tật khúc xạ",
+      "description": "Khám và điều trị các bệnh về tật khúc xạ mắt.",
+      "price": 500000,
+      "type": 2
+    },
+    {
+      "id": 17,
+      "hospital_id": 2,
+      "name": "Khám viêm giác mạc",
+      "description": "Khám và điều trị các bệnh viêm giác mạc.",
+      "price": 700000,
+      "type": 2
+    },
+    {
+      "id": 18,
+      "hospital_id": 2,
+      "name": "Khám mắt tiền hôn nhân",
+      "description": "Khám mắt toàn diện trước khi kết hôn.",
+      "price": 1000000,
+      "type": 2
+    },
+    {
+      "id": 19,
+      "hospital_id": 2,
+      "name": "Khám mắt trẻ em",
+      "description": "Khám mắt cho trẻ em để phát hiện các vấn đề từ sớm.",
+      "price": 400000,
+      "type": 1
+    },
+    {
+      "id": 20,
+      "hospital_id": 2,
+      "name": "Khám mắt bảo vệ tầm nhìn",
+      "description": "Khám và bảo vệ tầm nhìn cho những người có nguy cơ cao.",
+      "price": 800000,
+      "type": 2
+    },
+    {
+      "id": 21,
+      "hospital_id": 3,
+      "name": "Khám bệnh BHYT",
+      "description": "Khám chữa bệnh bảo hiểm y tế theo quy định của nhà nước.",
+      "price": 0,
+      "type": 1
+    },
+    {
+      "id": 22,
+      "hospital_id": 3,
+      "name": "Khám sức khỏe tổng quát",
+      "description": "Khám sức khỏe tổng quát định kỳ.",
+      "price": 500000,
+      "type": 2
+    },
+    {
+      "id": 23,
+      "hospital_id": 3,
+      "name": "Khám tim mạch chuyên sâu",
+      "description": "Kiểm tra sức khỏe tim mạch và phát hiện sớm các bệnh lý tim mạch.",
+      "price": 1500000,
+      "type": 2
+    },
+    {
+      "id": 24,
+      "hospital_id": 3,
+      "name": "Khám phụ khoa",
+      "description": "Khám chữa bệnh phụ khoa cho phụ nữ.",
+      "price": 300000,
+      "type": 1
+    },
+    {
+      "id": 25,
+      "hospital_id": 3,
+      "name": "Khám nội soi dạ dày",
+      "description": "Khám và xét nghiệm nội soi dạ dày để phát hiện bệnh lý.",
+      "price": 800000,
+      "type": 2
+    },
+    {
+      "id": 26,
+      "hospital_id": 3,
+      "name": "Khám mắt BHYT",
+      "description": "Khám mắt bảo hiểm y tế cho bệnh nhân có thẻ BHYT.",
+      "price": 0,
+      "type": 1
+    },
+    {
+      "id": 27,
+      "hospital_id": 3,
+      "name": "Khám tầm soát ung thư",
+      "description": "Khám phát hiện sớm ung thư.",
+      "price": 2000000,
+      "type": 2
+    },
+    {
+      "id": 28,
+      "hospital_id": 3,
+      "name": "Khám tim mạch cơ bản",
+      "description": "Khám tim mạch cơ bản để phát hiện các vấn đề về tim.",
+      "price": 1000000,
+      "type": 2
+    },
+    {
+      "id": 29,
+      "hospital_id": 3,
+      "name": "Khám tai mũi họng",
+      "description": "Khám chữa bệnh tai mũi họng.",
+      "price": 200000,
+      "type": 1
+    },
+    {
+      "id": 30,
+      "hospital_id": 3,
+      "name": "Khám sức khỏe tiền hôn nhân",
+      "description": "Khám sức khỏe toàn diện trước khi kết hôn.",
+      "price": 1200000,
+      "type": 2
+    }
+  ]
+  

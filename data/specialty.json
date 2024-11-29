@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Bác sĩ Gia Đình",
+    "description": "Chuyên khoa bác sĩ gia đình",
+    "image": "/images/img-specialties/khoa-bs-giadinh.png"
+  },
+  {
+    "id": 2,
+    "name": "Tiêu Hóa Gan Mật",
+    "description": "Chuyên khoa về tiêu hóa và gan mật",
+    "image": "/images/img-specialties/khoa-tieuhoa-ganmat.png"
+  },
+  {
+    "id": 3,
+    "name": "Nội Tổng Quát",
+    "description": "Chuyên khoa về nội tổng quát",
+    "image": "/images/img-specialties/khoa-noi-tongquat.png"
+  },
+  {
+    "id": 4,
+    "name": "Nội Tiết",
+    "description": "Chuyên khoa về nội tiết",
+    "image": "/images/img-specialties/khoa-noitiet.png"
+  },
+  {
+    "id": 5,
+    "name": "Da Liễu",
+    "description": "Chuyên khoa về da liễu",
+    "image": "/images/img-specialties/khoa-dalieu.png"
+  },
+  {
+    "id": 6,
+    "name": "Nội Tim Mạch",
+    "description": "Chuyên khoa về tim mạch",
+    "image": "/images/img-specialties/khoa-noi-timmach.png"
+  },
+  {
+    "id": 7,
+    "name": "Nội Thần Kinh",
+    "description": "Chuyên khoa về thần kinh",
+    "image": "/images/img-specialties/khoa-noi-thankinh.png"
+  },
+  {
+    "id": 8,
+    "name": "Nội Cơ Xương Khớp",
+    "description": "Chuyên khoa về cơ xương khớp",
+    "image": "/images/img-specialties/khoa-noi-coxuongkhop.png"
+  },
+  {
+    "id": 9,
+    "name": "Tai Mũi Họng",
+    "description": "Chuyên khoa về tai mũi họng",
+    "image": "/images/img-specialties/khoa-taimuihong.png"
+  },
+  {
+    "id": 10,
+    "name": "Mắt",
+    "description": "Chuyên khoa về mắt",
+    "image": "/images/img-specialties/khoa-mat.png"
+  },
+  {
+    "id": 11,
+    "name": "Nội Tiêu Hoà",
+    "description": "Chuyên khoa về tiêu hoá",
+    "image": "/images/img-specialties/khoa-noi-tieuhoa.png"
+  },
+  {
+    "id": 12,
+    "name": "Nội Truyền Nhiễm",
+    "description": "Chuyên khoa về truyền nhiễm",
+    "image": "/images/img-specialties/khoa-noi-truyennhiem.png"
+  },
+  {
+    "id": 13,
+    "name": "Nội Hô Hấp",
+    "description": "Chuyên khoa về hô hấp",
+    "image": "/images/img-specialties/khoa-noi-hohap.png"
+  },
+  {
+    "id": 14,
+    "name": "Nội Tiết Niệu",
+    "description": "Chuyên khoa về tiết niệu",
+    "image": "/images/img-specialties/khoa-noi-tietnieu.png"
+  },
+  {
+    "id": 15,
+    "name": "Ngoại Cơ Xương Khớp",
+    "description": "Chuyên khoa về ngoại cơ xương khớp",
+    "image": "/images/img-specialties/khoa-ngoai-coxuongkhop.png"
+  },
+  {
+    "id": 16,
+    "name": "Sản - Phụ Khoa",
+    "description": "Chuyên khoa về sản phụ khoa",
+    "image": "/images/img-specialties/khoa-san-phukhoa.png"
+  }
+]
